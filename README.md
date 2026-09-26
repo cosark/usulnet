@@ -43,6 +43,10 @@ the password from the profile page.
 Manual Docker Compose install, standalone binary install, and offline
 procedures live in [`docs/installation.md`](docs/installation.md).
 
+## ☁️ One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/usulnet/)
+
 ## What's new in v26.5.2
 
 Polish release on top of v26.5.1. **No database migration.** Adds the
